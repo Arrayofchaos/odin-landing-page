@@ -9,9 +9,11 @@ I’m using **HTML**, **CSS**, and **flexbox** to recreate the layout and style 
 
 - Build a **new webpage** from a static design image  
 - Use provided fonts and colors (with personal tweaks if I want)  
-- Substitute placeholder content with my own if I feel fancy  
+- Replace placeholder text and images with a custom theme (AI Learning Hub)
 - Focus on using **flexbox** for layout  
 - Google anything and everything I don’t remember !
+
+This project features my own custom AI Learning Hub theme, with content about AI basics and a pretend newsletter sign-up.
 
 ## ⚡ Key Skills Practiced
 
