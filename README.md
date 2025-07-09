@@ -38,7 +38,9 @@ Coming soon! (Will link here when deployed on GitHub Pages.)
 
 ---
 
-**Note:** This page is **not** pixel-perfect by design. It’s all about practicing real-world skills: building layouts, styling with flexbox, and getting comfortable Googling the little stuff.
+**Note:** This page is **not** pixel-perfect by design. It’s all about practicing real-world skills: building layouts, styling with flexbox, and getting comfortable Googling the little stuff. Mobile responsiveness isn’t a focus for this project. That’ll come later!
+
+
 
 ---
 
