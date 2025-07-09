@@ -1,0 +1,15 @@
+/* Hero image rectangular shape */
+.hero-image {
+  width: 400px;   /* wider */
+  height: auto;   /* keep natural aspect ratio */
+  display: block;
+  margin: 20px 0;
+}
+
+/* All other images square shape */
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;  /* crops inside square box */
+  margin: 20px auto;
+}
