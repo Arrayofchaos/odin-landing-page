@@ -10,6 +10,7 @@ body{
     min-height: 100vh;       /* makes body take full viewport height */
     text-align: center;
     overflow: auto;
+    
 }
 
 a {
@@ -46,11 +47,11 @@ h1 {
 }
 
 /* All other images square shape */
-img {
+.section2 img {
   width: 150px;
   height: 150px;
   object-fit: cover;  /* crops inside square box */
-  margin: 20px auto;
+  aspect-ratio: 1 / 1;
 }
 
 button {
@@ -120,7 +121,7 @@ ul {
 
 .container{
   display:flex;
-  justify-content: center;
+  justify-content: space-between;
   gap: 50px;
  }
 
