@@ -162,6 +162,7 @@ ul {
     display:flex;
     justify-content: center;
     gap: 40px;
+    flex: 1;
   }
 
   .blue-box{
@@ -182,4 +183,11 @@ ul {
    align-self: center;
   }
 
+  .footer{
+    background: #1f2937;
+    padding: 20px;
+    text-align: center;
+    color: #f9faf8;
+    font-size:18px;
+  }
  
