@@ -31,8 +31,7 @@ I made a [Recipe Page](https://arrayofchaos.github.io/proj-recipes/index.html) a
 This landing page is a separate project which is bigger, better, and more polished!
 
 ## 🚀 Live Demo
-
-Coming soon! (Will link here when deployed on GitHub Pages.)
+[AI Learning Hub](https://arrayofchaos.github.io/odin-landing-page/index.html).
 
 ## 💡 Author
 
